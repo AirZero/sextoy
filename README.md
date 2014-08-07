@@ -4,7 +4,7 @@
 
 ## What to buy
 
-- [18-Speed Remote Control Vibration Egg](http://www.intimategadgets.com/product/18-speed-vibration-body-massager-with-remote-controller--random-color-2xaaa-+-1xaaa-100551)
+- [18-Speed Remote Control Vibration Egg](http://www.intimategadgets.com/product/wireless-12-speed-vibration-body-massager-2-x-aaa-+-1-x-aa-71019)
 - [FTDI TTL-232R-5V](http://www.ftdichip.com/Products/Cables/USBTTLSerial.htm) either the normal or wire ended version (-WE). Online
   resellers include [Elfa Distrelec](https://www.elfaelektroniikka.fi/elfa3~fi_fi/elfa/init.do?item=73-206-73&toc=0) and [Mouser](http://fi.mouser.com/ProductDetail/FTDI/TTL-232R-5V-WE/?qs=sGAEpiMZZMtf8aSAtgR7DtM6b7hTwLVv).
   The cable is so common that you may find it from your local electronic
